@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Actions</key>
+    <array>
+        <dict>
+            <key>AppleScript File</key>
+            <string>Grammarly.applescript</string>
+            <key>Image File</key>
+            <string>grammarly.png</string>
+            <key>Title</key>
+            <string>Grammarly</string>
+        </dict>
+    </array>
+    <key>Extension Description</key>
+    <string>Check the selected text with Grammarly.</string>
+    <key>Extension Identifier</key>
+    <string>com.dionmunk.popclip.extension.grammarly</string>
+    <key>Extension Name</key>
+    <string>Grammarly</string>
+    <key>Version</key>
+    <integer>1</integer>
+</dict>
+</plist>
