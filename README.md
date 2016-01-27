@@ -4,3 +4,6 @@ The Grammarly Popclip extension takes the highlighted text, opens a new tab in C
 ## Requirements
 - [Chrome Web Browser](https://www.google.com/chrome/)
 - [Grammarly Chrome Browser Plugin](http://grammarly.com)
+
+## Installation
+Download the repository ZIP to your Mac and extract it. Double click the `Grammarly.popclipext` file to add the extension to Popclip.
