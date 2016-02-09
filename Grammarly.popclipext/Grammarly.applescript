@@ -6,7 +6,7 @@ tell application "Google Chrome"
     set URL of myTab to "http://grammarly.dionmunk.com"
 end tell
 
-delay 1
+delay 2
 
 tell application "System Events"
     tell process "Google Chrome"
