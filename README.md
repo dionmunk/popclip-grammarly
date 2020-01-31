@@ -1,5 +1,5 @@
 ## About
-The Grammarly PopClip extension takes the highlighted text, opens a new tab in Chrome and goes to [http://grammarly.dionmunk.com](http://grammarly.dionmunk.com) and pastes it into a text area so that Grammarly can check it.
+The Grammarly PopClip extension takes the highlighted text, opens a new tab in Chrome and goes to [http://grammarly.dionmunk.com](http://grammarly.dionmunk.com) and pastes it into a text area so that Grammarly can check it. You must have the Grammarly web browser extension for Chrome installed.
 
 ## Requirements
 - [PopClip](https://pilotmoon.com/popclip/)
