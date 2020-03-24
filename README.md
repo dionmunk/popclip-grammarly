@@ -13,4 +13,4 @@ The Grammarly PopClip extension takes the highlighted text, opens a new tab in C
 Download the repository ZIP to your Mac and extract it. Double click the `Grammarly.popclipext` file to add the extension to PopClip.
 
 ## License
-This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
