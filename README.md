@@ -2,7 +2,7 @@
 
 [![Creative Commons](https://flat.badgen.net/badge/license/CC-BY-NC-4.0/orange)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-The Grammarly PopClip extension takes the highlighted text, opens a new tab in Chrome and goes to [http://grammarly.dionmunk.com](http://grammarly.dionmunk.com) and pastes it into a text area so that Grammarly can check it. You must have the Grammarly web browser extension for Chrome installed.
+The Grammarly PopClip extension takes the highlighted text, opens a new tab in Chrome and goes to [http://grammarly-check.com](http://grammarly-check.com) and pastes it into a text area so that Grammarly can check it. You must have the Grammarly web browser extension for Chrome installed.
 
 ## Requirements
 - [PopClip](https://pilotmoon.com/popclip/)
