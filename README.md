@@ -1,5 +1,8 @@
-## About
-The Grammarly PopClip extension takes the highlighted text, opens a new tab in Chrome and goes to [http://grammarly.dionmunk.com](http://grammarly.dionmunk.com) and pastes it into a text area so that Grammarly can check it.
+# Popclip Grammarly
+
+[![Creative Commons](https://flat.badgen.net/badge/license/CC-BY-NC-4.0/orange)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+The Grammarly PopClip extension takes the highlighted text, opens a new tab in Chrome and goes to [http://grammarly.dionmunk.com](http://grammarly.dionmunk.com) and pastes it into a text area so that Grammarly can check it. You must have the Grammarly web browser extension for Chrome installed.
 
 ## Requirements
 - [PopClip](https://pilotmoon.com/popclip/)
@@ -10,6 +13,4 @@ The Grammarly PopClip extension takes the highlighted text, opens a new tab in C
 Download the repository ZIP to your Mac and extract it. Double click the `Grammarly.popclipext` file to add the extension to PopClip.
 
 ## License
-[![CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
-
-This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
