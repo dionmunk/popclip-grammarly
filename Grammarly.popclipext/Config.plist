@@ -20,6 +20,32 @@
     <key>Extension Name</key>
     <string>Grammarly</string>
     <key>Version</key>
-    <integer>1</integer>
+    <integer>1.1</integer>
+    <key>Options</key>
+	<array>
+		<dict>
+			<key>Option Default Value</key>
+			<string>Safari</string>
+			<key>Option Identifier</key>
+			<string>browser</string>
+			<key>Option Label</key>
+			<dict>
+				<key>en</key>
+				<string>Browser</string>
+			</dict>
+			<key>Option Type</key>
+			<string>multiple</string>
+			<key>Option Values</key>
+			<array>
+				<string>Chrome</string>
+				<string>Safari</string>
+			</array>
+		</dict>
+	</array>
+	<key>Options Title</key>
+	<dict>
+		<key>en</key>
+		<string>Choose your web browser.</string>
+	</dict>
 </dict>
 </plist>
