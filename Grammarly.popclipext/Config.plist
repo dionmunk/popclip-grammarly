@@ -20,7 +20,7 @@
     <key>Extension Name</key>
     <string>Grammarly</string>
     <key>Version</key>
-    <integer>1.1</integer>
+    <integer>2</integer>
     <key>Options</key>
 	<array>
 		<dict>
