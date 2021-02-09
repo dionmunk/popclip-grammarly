@@ -11,7 +11,7 @@ The Grammarly PopClip extension takes the highlighted text, opens a new tab in e
 
 ## Installation
 
-- Download the repository ZIP to your Mac and extract it. Double click the `Grammarly.popclipext` file to add the extension to PopClip.
+- [Download](https://github.com/dionmunk/popclip-grammarly/archive/master.zip) the repository ZIP to your Mac and extract it. Double click the `Grammarly.popclipext` file to add the extension to PopClip.
 - When you first install the extension it will ask what web browser you want to use (Chrome or Safari).
 - Reinstall the extension if you want to change the web browser it uses.
 
