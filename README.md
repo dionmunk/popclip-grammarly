@@ -4,10 +4,16 @@
 
 The Grammarly PopClip extension takes the highlighted text, opens a new tab in either Chrome or Safari, and goes to [https://grammarly-check.com](https://grammarly-check.com) and pastes it into a text area so that Grammarly can check it. You must have the Grammarly web browser extension installed in your chosen browser.
 
+<p align="center">
+  <img src="https://github.com/dionmunk/popclip-grammarly/blob/master/screenshot.png">
+</p>
+
+Currently supports Chrome and Safari web browsers.
+
 ## Requirements
 
 - [PopClip](https://pilotmoon.com/popclip/)
-- [Grammarly Chrome Browser Plugin](http://grammarly.com)
+- [Grammarly Chrome Browser Plugin](https://app.grammarly.com/apps?affiliateNetwork=cj&affiliateID=100415808)
 
 ## Installation
 
