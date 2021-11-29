@@ -13,7 +13,7 @@ Currently supports Chrome and Safari web browsers.
 ## Requirements
 
 - [PopClip](https://pilotmoon.com/popclip/)
-- [Grammarly Browser Plugin](https://app.grammarly.com/apps?affiliateNetwork=cj&affiliateID=100415808)
+- [Grammarly Browser Plugin](https://app.grammarly.com/apps)
 
 ## Installation
 
