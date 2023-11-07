@@ -6,7 +6,7 @@ if (browser = "Chrome") then
 	tell application "Google Chrome"
 		activate
 		set myTab to make new tab at end of tabs of window 1
-		set URL of myTab to "http://grammarly-check.com"
+		set URL of myTab to "https://grammar-check.dionmunk.com/"
 	end tell
 	
 	# wait 2 seconds
@@ -23,7 +23,7 @@ end if
 if browser = "Safari" then
 	tell application "Safari"
 		activate
-		open location "http://grammarly-check.com"
+		open location "https://grammar-check.dionmunk.com/"
 	end tell
 	
 	# wait 2 seconds
